@@ -1,0 +1,12 @@
+Flask
+dash
+dash-bootstrap-components
+pandas
+numpy
+scikit-learn
+beautifulsoup4
+requests
+yfinance
+xgboost
+joblib
+gunicorn
